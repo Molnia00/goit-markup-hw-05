@@ -581,6 +581,14 @@ background-color: #31d0aa;
 
 }
 
+.modal-btn{
+    position: absolute;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    top: 24px;
+    right:24 px;
+}
 
 
 /* ====== /вікно====== */
